@@ -1,4 +1,6 @@
-git branch -m main master
-git fetch origin
-git branch -u origin/master master
-git remote set-head origin -a
+TEAM MEMBER LIST
+Student-1   Mamta kumari        ---> Create repo
+Student-2	Rajan Manu Pandey	---> navbar (navbar.html)
+Student-3	Aman Verma	        ---> signupPage (signup.html)
+Student-4	Anwar Basha	        ---> login (login.html)
+Student-5	Rohit Bhosale	    ---> mensPage (mens.html)
